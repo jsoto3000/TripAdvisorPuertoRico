@@ -14,17 +14,20 @@ This URL can be amended for different countries or attractions in the code
 
 i.e. substitute https://www.getyourguide.com/puerto-rico-l169159/ with https://www.getyourguide.com/france-l169008/
 
-Step 2 - Clicks on 'Show more' button ten time to add 100-200 attractions to page
+Step 2 - Clicks on 'Show more' button ten times to add 100-200 attractions to page
 
 Step 3 - Scrapes Page
 
 Step 4 - Outputs .csv file
 
 
+Note 1: If you download this code you need to update with your path for the output file
 
-Note: if no output and get error stack traces like below then you may need to re-inspect the Website Structure:
+Note 2: TripAdvisor frequently updates their pages. If no output and get error stack traces like below then you may need to re-inspect the Website Structure:
+
 Double-check the XPaths and CSS selectors being used to locate the elements. Make sure they accurately target the desired elements on the page.
 Use browser developer tools to inspect the HTML structure and ensure the elements you're trying to access are present and have the correct attributes.
+
 
 
 Error processing tour 174: Message: 

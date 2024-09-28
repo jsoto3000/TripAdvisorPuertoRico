@@ -134,6 +134,7 @@ driver.quit()
 # Write the data to a CSV file
 csv_file_path = r"C:[Add your path here for .csv output]"
 
+
 with open(csv_file_path, 'w', newline='', encoding='utf-8') as csvfile:
     fieldnames = ['activity', 'price', 'link', 'rating', 'reviews']
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
