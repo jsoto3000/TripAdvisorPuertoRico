@@ -1,8 +1,14 @@
-Country Specific Webscrape
-
-for Puerto Rico
-
 tripadvisor.com
+
+Country Specific Webscrape for Puerto Rico
+
+Downloads 100-200 attractions with data:
+	Activity
+	Link
+	Price
+	Rating
+	Reviews
+	
 
 Uses Selenium
 

@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb6ffc8f-2a40-45de-ad64-22172e264146" name="Changes" comment="Amended README.md file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fetch_data_pr.py" beforeDir="false" afterPath="$PROJECT_DIR$/fetch_data_pr.py" afterDir="false" />
+    <list default="true" id="fb6ffc8f-2a40-45de-ad64-22172e264146" name="Changes" comment="removed unwanted comments">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,12 +91,21 @@
       <option name="project" value="LOCAL" />
       <updated>1727495282409</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="removed unwanted comments">
+      <option name="closed" value="true" />
+      <created>1727495483488</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727495483488</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Amended README.md file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Amended README.md file" />
+    <MESSAGE value="removed unwanted comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed unwanted comments" />
   </component>
 </project>
