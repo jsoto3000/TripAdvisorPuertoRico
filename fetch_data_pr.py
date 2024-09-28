@@ -41,11 +41,10 @@ def click_button():
             show_more_button.click()
             show_more_clicks += 1
             print(f"'Show More' button clicked {show_more_clicks} times")
+        # Handle cases where button might not exist or takes longer to load
         except (TimeoutException, NoSuchElementException) as e:
             print(f"Error clicking 'Show More' button or button not found: {e}")
-            # Handle cases where button might not exist or takes longer to load
 
-    # ... rest of your code to scrape tour information ...
 
     return
 
